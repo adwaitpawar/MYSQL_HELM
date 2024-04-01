@@ -10,6 +10,6 @@ spec:
     - ReadWriteOnce
   storageClassName: gp2 # StorageClass name
   awsElasticBlockStore:
-    volumeID: vol-08dcd94ed1153e691
+    volumeID: vol-0bad41327731e7a95
     fsType: ext4
 
